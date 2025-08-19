@@ -3,7 +3,7 @@ import java.util.Queue;
 import java.util.Scanner;
 
 class Customer {
-    private static int counter = 1;  // static counter for auto-incremented numbers
+    private static int counter = 1;  
     private String name;
     private int number;
 
@@ -87,3 +87,4 @@ public class queue {
         }
     }
 }
+
